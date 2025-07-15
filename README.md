@@ -19,7 +19,7 @@ A cutting-edge, dark-mode AI tools platform built with React and Vanta.js, featu
 
 ## 🚀 Live Demo
 
-Experience the live application: **[AI Nexus Platform](https://your-deployment-link.vercel.app)**
+Experience the live application: **[AI Nexus Platform](https://ai-nexus-dusky.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
@@ -40,13 +40,6 @@ Experience the live application: **[AI Nexus Platform](https://your-deployment-l
 - **Interactive Buttons**: Sophisticated hover animations with shine effects
 - **Professional Typography**: Poppins font with carefully crafted text hierarchy
 - **Custom Scrollbar**: Styled scrollbars matching the dark theme
-
-### Technical Features
-
-- **Stable 3D Background**: Vanta.js TRUNK effect with error handling and fallback
-- **Responsive Navigation**: Clean header with smooth transitions
-- **Modular Components**: Separated concerns for maintainable code
-- **Optimized Performance**: Efficient rendering and asset management
 
 ## 📦 Installation & Setup
 
@@ -94,20 +87,6 @@ src/
 ├── index.css              # Global styles and utilities
 └── main.jsx              # Application entry point
 ```
-
-## 🎯 Key Components
-
-### VantaBackground.jsx
-
-- Implements stable Vanta.js TRUNK effect
-- Includes error handling and fallback mechanisms
-- Optimized for performance and stability
-
-### Header.jsx
-
-- Responsive navigation with glassmorphism design
-- Smooth hover effects and transitions
-- Professional button styling with gradients
 
 ### MainPage.jsx
 
@@ -171,7 +150,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Ridoy
 
 ---
 
