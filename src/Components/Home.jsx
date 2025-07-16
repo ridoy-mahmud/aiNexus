@@ -20,6 +20,7 @@ const HomePage = () => {
         <VantaBackground>
             <div className="min-h-screen flex items-center justify-center relative overflow-hidden">
                 {/* Floating Particles */}
+            {/* // Enhanced particle effect with Web3 styling */}
                 <div className="absolute inset-0 overflow-hidden pointer-events-none">
                     {[...Array(20)].map((_, i) => (
                         <div
